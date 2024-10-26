@@ -33,7 +33,6 @@ Ground-level ozone, which can lead to respiratory issues and exacerbate asthma c
 ***Features of the Dashboard***
 
 ****Regional AQI Analysis:****
-
 View and compare AQI across different regions in India.
 Historical Data Trends
 Analyze the trends in AQI and pollutant levels over time.
