@@ -29,9 +29,11 @@ Carbon monoxide, a harmful gas that can cause dizziness, confusion, and even unc
 
 **O₃:***
 Ground-level ozone, which can lead to respiratory issues and exacerbate asthma conditions.
-Features of the Dashboard
+
+***Features of the Dashboard***
 
 ****Regional AQI Analysis:****
+
 View and compare AQI across different regions in India.
 Historical Data Trends
 Analyze the trends in AQI and pollutant levels over time.
@@ -45,4 +47,5 @@ Technologies Used
 
 ****Power BI:****
 For building interactive visualizations and data modeling.
-Data Sources: The data sources include open-source repositories and governmental datasets on air quality across Indian regions.
+
+***Data sources***: The data sources include open-source repositories and governmental datasets on air quality across Indian regions.
